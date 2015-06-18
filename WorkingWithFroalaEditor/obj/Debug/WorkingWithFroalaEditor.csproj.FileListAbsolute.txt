@@ -1,0 +1,6 @@
+D:\asp.net\001.Web form\WorkingWithFroalaEditor\WorkingWithFroalaEditor\bin\WorkingWithFroalaEditor.dll.config
+D:\asp.net\001.Web form\WorkingWithFroalaEditor\WorkingWithFroalaEditor\bin\WorkingWithFroalaEditor.dll
+D:\asp.net\001.Web form\WorkingWithFroalaEditor\WorkingWithFroalaEditor\bin\WorkingWithFroalaEditor.pdb
+D:\asp.net\001.Web form\WorkingWithFroalaEditor\WorkingWithFroalaEditor\obj\Debug\WorkingWithFroalaEditor.csprojResolveAssemblyReference.cache
+D:\asp.net\001.Web form\WorkingWithFroalaEditor\WorkingWithFroalaEditor\obj\Debug\WorkingWithFroalaEditor.dll
+D:\asp.net\001.Web form\WorkingWithFroalaEditor\WorkingWithFroalaEditor\obj\Debug\WorkingWithFroalaEditor.pdb
